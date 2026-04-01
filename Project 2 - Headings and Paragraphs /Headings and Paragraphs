@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Headings</title>
+        <body>
+            <h1> `<h1>` is the largest and most important heading.<h1> 
+            <h2> `<h2>` is slightly smaller than h1.<h2>
+            <h3> `<h3>` is smaller than h2.<h3>
+            <h4> `<h4>` is smaller than h3.<h4>
+            <h5> `<h5>` is smaller than h4.<h5>
+            <h6> `<h6>` is the smallest heading.<h6>
+       <p> The `<p>` tag is used to display paragraph text. </p>
+          </body> 
+</html>          
