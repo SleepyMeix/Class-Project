@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+       <title>replit</title>
+     <link rel="stylesheet" href="style.css">
+    <body>
+        <h1> How formatting works </h1>
+        <p> With meta charset set to 8, you can make sure your website supports most icons and symbols. Setting the viewport meta tag ensures your website is responsive on different devices and clearly visible for everyone.. how neat! Right ? Setting the style sheet makes sure your website looks great on all devices! </p>
+        <h2> How to style </h2>
+        <b> `<b>` makes the text bold.</b> <br> <strong> `<strong>` also makes the text bold, but it gives strong importance. </strong> <br> <i> `<i>` makes the text italic. </i> <br> <em> `<em>` makes text italic, but it adds emphasis. </em> <br> <mark>highlights the text (as if marked with a highlighter).</mark> <br> <small> `<small>` makes the text smaller than normal.</small> <br> <del> `<del>` shows deleted text by adding a strikethrough line</del> <br> <sup>Use `<sup>` to show superscript text (raised up)</sup> <sub>Use `<sub>` to show subscript text (lowered down)</sub> <br>
+    </body>
+</html>
