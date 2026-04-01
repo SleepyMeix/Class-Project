@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title> replit </title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <h1> I am Loujaine. </h1>
+        I am  <i> 15 years old </i> <br> I like <mark> writing </mark> and <mark> fashion. </mark> <br> My favorite quotation is </br> <q> <mark> “We are never everything we appear to be and rarely everything we wish to be.”</mark> </q>
+        </body>
+</html>
